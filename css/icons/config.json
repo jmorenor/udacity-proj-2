@@ -1,0 +1,112 @@
+{
+  "name": "typicon",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "jqzwo6i8oicjbn049sh2856d8anrqoli",
+      "css": "edit",
+      "code": 59403,
+      "src": "typicons"
+    },
+    {
+      "uid": "ccf71c505b173c61a2e4e8c8cb907dfa",
+      "css": "chat-alt",
+      "code": 59404,
+      "src": "typicons"
+    },
+    {
+      "uid": "13289e807e02b1d46f2fe10d81d6fba6",
+      "css": "location-outline",
+      "code": 59399,
+      "src": "typicons"
+    },
+    {
+      "uid": "gjt8ba5q0n3nn8ptw6324sflr8qoaeam",
+      "css": "location",
+      "code": 59400,
+      "src": "typicons"
+    },
+    {
+      "uid": "eae068bed86aca956cdd10edcaaf24ee",
+      "css": "phone-outline",
+      "code": 59398,
+      "src": "typicons"
+    },
+    {
+      "uid": "24eiet6l58t0myywueih34b0e5a30bw1",
+      "css": "phone",
+      "code": 59401,
+      "src": "typicons"
+    },
+    {
+      "uid": "12d16dda691bda304e3b57d7bc0de5a9",
+      "css": "lightbulb",
+      "code": 59405,
+      "src": "typicons"
+    },
+    {
+      "uid": "4d3a91e6b0db6e03acaa74a861e2ab95",
+      "css": "desktop",
+      "code": 59408,
+      "src": "typicons"
+    },
+    {
+      "uid": "1e8ffb4f9e0d313a9f5ffa5788487712",
+      "css": "globe-outline",
+      "code": 59406,
+      "src": "typicons"
+    },
+    {
+      "uid": "d054fe11fb18e0ac8035d0d9ad556e3b",
+      "css": "infinity-outline",
+      "code": 59407,
+      "src": "typicons"
+    },
+    {
+      "uid": "8bf56386082752a2acc88a1ddf6851a8",
+      "css": "at",
+      "code": 59402,
+      "src": "typicons"
+    },
+    {
+      "uid": "4a98de1ada96673f8b43a600fd50d569",
+      "css": "github-circled",
+      "code": 59397,
+      "src": "typicons"
+    },
+    {
+      "uid": "b94db9f012742fbdde9cb59413e14e9b",
+      "css": "github",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "b2178b8fca35bac9e4bfcea4a4c05a92",
+      "css": "linkedin-circled",
+      "code": 59396,
+      "src": "typicons"
+    },
+    {
+      "uid": "25a30265650b260ef03df4cbbff80272",
+      "css": "linkedin",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "b523a5bcf8d08725038873d89bb003fd",
+      "css": "twitter-circled",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "4568bba1dba45522fc539c733c9b35e5",
+      "css": "twitter",
+      "code": 59393,
+      "src": "typicons"
+    }
+  ]
+}
